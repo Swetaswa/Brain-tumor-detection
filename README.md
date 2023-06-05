@@ -12,6 +12,7 @@ This project was designed by Swetaswa Basak and Paras PAtil, as our end year Mas
 
 1. Swetaswa Basak, Vellore Institute of Technology, India
 2. Paras Patil, Vellore Institute of Technology, India
+3. Praneeth Prakash Namakar, Vellore Institute of Technology, India
 
 ## Overview
 
